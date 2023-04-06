@@ -1,0 +1,8 @@
+html {
+  background-color: #6fc276;
+  text-align: center;
+}
+
+.person p {
+  display: inline-block;
+}
