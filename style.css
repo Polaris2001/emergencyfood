@@ -7,3 +7,22 @@ html {
   display: inline-block;
 }
 
+.members {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.name {
+  text-align: left;
+}
+
+.tel {
+  text-align: center;
+}
+
+.uid {
+  text-align: right;
+}
