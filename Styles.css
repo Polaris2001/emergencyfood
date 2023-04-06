@@ -8,7 +8,8 @@ html {
 }
 
 .members {
-  width: 60%;
+  width: 80%;
+  max-width: 500px;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
