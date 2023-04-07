@@ -18,15 +18,18 @@ html {
 
 .name {
   text-align: left;
-  width: 25%:
+  width: 20%;
 }
 
 .tel {
   text-align: center;
-  width: 45%:
+  width: 40%;
+    
+    
+   
 }
 
 .uid {
   text-align: right;
-  width: 30%;
+  width: 40%;
 }
