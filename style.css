@@ -50,5 +50,7 @@ a:active {
 
 .dividing-line {
   background: linear-gradient(90deg, #ff007f, #00d5d6);
+  height: 15px;
+  border: 1px;
 }
   
