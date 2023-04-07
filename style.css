@@ -43,3 +43,7 @@ a:hover {
 a:active {
   color: deepskyblue;
 }
+
+.dividing-line {
+  background: linear-gradient(90deg, #ff007f, #00d5d6)
+  
