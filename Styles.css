@@ -39,14 +39,14 @@ a {
   color: blue;
 }
 
-a:visited{
+a:visited {
   color: blue;
 }
 
-a:hovered{
+a:hovered {
   color: deepskyblue;
 }
 
-a:clicked{
+a:clicked {
   color: deepskyblue;
 }
