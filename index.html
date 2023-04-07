@@ -10,11 +10,10 @@
 </head>
 
 <body>
-  <div class="main">
-  <main>
+  <div class="header">
     <h1>EMERGENCY FOOD</h1>
     <h2>Ad astra abyssosque</h2>
-  </main>
+  </div>
   <hr class="dividing-line">
   <section>
     <h2 class="aboutus">About us</h2>
@@ -31,15 +30,18 @@
     <a href="https://discord.gg/6TdqnJG5"> Join our discord server </a>
       <h2> Fill in this form to join our whatsapp group. (Doesn't work right now)</h2>
       <form action="https://google.com">
-      <input required type="number" name="UID" placeholder="Your UID">
-      <input required type="number" name="Phone Number" placeholder="Your phone number">
-      <button type="submit"> Submit </button> 
+      <fieldset>
+        <label>Enter your name here: <input required type="text" name="name"></label>
+        <label>Enter your genshin UID here: <input required type="number" name="UID"></label>
+        <label>Enter your phone number here: <input required type="number" name="Phone Number"></label>
+        <button type="submit"> Submit </button>
+      </fieldset>
   </section>
   <script src="script.js"></script>
   <hr class="dividing-line">
   <footer>
     <h6>©2023 Polaris2001</h6>
-    <h6>Ver 0.2.3.0</h6>
+    <h6>Ver 0.2.4.0</h6>
   </footer>
 </body>
     
