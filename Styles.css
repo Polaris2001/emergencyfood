@@ -6,6 +6,9 @@ html {
 
 .person p {
   display: inline-block;
+  top-margin: 6px;
+  bottom-margin: 6px;
+  font-size: 20px;
 }
 
 .members {
