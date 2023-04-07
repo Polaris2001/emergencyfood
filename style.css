@@ -27,3 +27,11 @@ html {
 .uid {
   text-align: right;
 }
+
+a {
+  color: blue;
+}
+
+a:visited {
+  color: blue;
+}
