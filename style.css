@@ -22,6 +22,10 @@ html {
   width: 25%;
 }
 
+.name-apply {
+  text-align: center;
+}
+
 .tel {
   text-align: center;
   width: 40%;
