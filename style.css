@@ -57,5 +57,9 @@ a:active {
   
 label {
   display: block;
-  width: 50%
+}
+
+fieldset {
+  width: 50%;
+  max-width: 500px;
 }
