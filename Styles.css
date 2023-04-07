@@ -43,10 +43,10 @@ a:visited {
   color: blue;
 }
 
-a:hovered {
+a:hover {
   color: deepskyblue;
 }
 
-a:clicked {
+a:active {
   color: deepskyblue;
 }
