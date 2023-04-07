@@ -35,3 +35,11 @@ a {
 a:visited {
   color: blue;
 }
+
+a:hover {
+  color: deepskyblue;
+}
+
+a:active {
+  color: deepskyblue;
+}
