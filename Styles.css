@@ -28,12 +28,25 @@ html {
 .tel {
   text-align: center;
   width: 40%;
-    
-    
-   
 }
 
 .uid {
   text-align: right;
   width: 40%;
+}
+
+a {
+  color: blue;
+}
+
+a:visited{
+  color: blue;
+}
+
+a:hovered{
+  color: deepskyblue;
+}
+
+a:clicked{
+  color: deepskyblue;
 }
