@@ -55,3 +55,6 @@ a:active {
   width: 65%;
 }
   
+.label {
+  display: block;
+}
