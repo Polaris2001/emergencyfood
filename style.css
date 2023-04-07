@@ -45,5 +45,6 @@ a:active {
 }
 
 .dividing-line {
-  background: linear-gradient(90deg, #ff007f, #00d5d6)
+  background: linear-gradient(90deg, #ff007f, #00d5d6);
+}
   
