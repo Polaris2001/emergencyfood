@@ -70,6 +70,6 @@ fieldset {
   margin-right: auto;
 }
 
-div[class="form"] {
-  border-color: #658b6f;
+div {
+  border: none;
 }
